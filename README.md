@@ -1,8 +1,10 @@
-### RAIInet
+# RAIInet
 
-This project has a private codebase.
+This project has a private codebase, which cannot be made public.
 
-This github repository is a public file for a demo of the final project result.
+Coming soon: 
+- A runnable binary file for the C++ Game created
+- A video demonstration of the game in action
 
-I will be attaching a video link to demo this C++ game in the next couple days.
+Note: Running the game with graphics on would require running the X11 graphics library, which may require additional support on your local system
 
